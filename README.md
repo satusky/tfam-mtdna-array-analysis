@@ -1,2 +1,2 @@
-# tfam-mtdna-array-analysis
+# tfam-mtdna-uv-array
 Code will become available upon acceptance.
